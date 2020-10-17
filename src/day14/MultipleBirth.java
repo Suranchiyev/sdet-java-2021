@@ -25,7 +25,6 @@ public class MultipleBirth {
 			break;
 		default:
 			System.out.println("I don't believe you");
-			break;
 		}
 		
 	}
