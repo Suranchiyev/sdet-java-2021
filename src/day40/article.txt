@@ -1,0 +1,6 @@
+Above an example of measuring the runtime of the execution for this method. I’m getting Milliseconds: 65 and sometimes more or less. If you will try to execute this method on your machine, probably, you will get a different result. Because your machine is different than mine. It’s hard to measure the exact runtime for a program because in different machines it will be different. it depends on the speed of the processor and other parts of your machine. So instead of measuring runtime with seconds, we use Big O notation to measure how fast runtime will grow based on input and considering the worst-case scenario.
+Big O notation measurement is based on input
+If we would compare the runtime of the program, we would measure in seconds or milliseconds. For Big O notation there is n which represents the size of the input. So we can say things like
+Runtime grows on the order of the size of input — O(n)
+Runtime growth is quadratic based on the size of the input — O(n²)
+Runtime growth is constant for any size of input — O(1)
